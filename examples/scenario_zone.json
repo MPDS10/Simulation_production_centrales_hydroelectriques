@@ -1,0 +1,19 @@
+{
+  "timeline": {
+    "future-durations": [
+      10,
+      30,
+      60
+    ]
+  },
+  "zones": [
+    {
+      "expected-demands": [
+        1.5,
+        2.5,
+        3.5
+      ],
+      "id": "Z"
+    }
+  ]
+}
